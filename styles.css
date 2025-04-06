@@ -428,7 +428,7 @@ button:hover{ background-color: #3d3f44e3 !important;} /*standard button*/
 }
 .tbl > .tbc.bblink
 {
-    animation: glow 0.75s ease-in-out infinite !important;
+    animation: glow 1.00s ease-in-out infinite !important;
 }
 .btndiv > div
 {
@@ -520,7 +520,7 @@ button:hover{ background-color: #3d3f44e3 !important;} /*standard button*/
 .btndiv > div:nth-child(3),
 .btndiv > div:nth-child(4)
 {
-    background-color: #00307e !important;    
+    background-color: #00000070 !important;    
 }
 
 /*Ron*/
@@ -539,42 +539,45 @@ button:hover{ background-color: #3d3f44e3 !important;} /*standard button*/
     top: 60vh !important;
     left: 60px !important;
     width: 300px !important;
-    height: 16vh !important;
+    height: 10vh !important;
 
-    animation: glow2 0.75s ease-in-out infinite !important;
+    animation: glow2 1.00s ease-in-out infinite !important;
 }
 
 
 /*Ron*/
 .btndiv > div:nth-child(10)
 {
-    background-color: #a00000 !important;
+    background-color: #00000070 !important;
 }
 
 /*Riichi*/
 .btndiv > div:nth-child(11)
 {
-    background-color: #e07700 !important;
+    background-color: #00000070 !important;
 }
 
 /*Chii / Pon*/
 .btndiv > div:nth-child(2)
 {
     font-family: sans-serif !important;
-    background-color: #00307e !important;    
+    background-color: #00000070 !important;   
+    
+    width: 300px !important;
+    height: 10vh !important;
 
 }
 
 /*Tsumo*/
 .btndiv > div:nth-child(9)
 {
-    background-color: #4800a3 !important; 
+    background-color: #00000070 !important; 
 }
 
 /*Redeal*/
 .btndiv > div:nth-child(16)
 {
-    background-color: #969696 !important;
+    background-color: #00000070 !important;
 }
 
 /*Multiple Chii panel (Call)*/
@@ -596,9 +599,9 @@ button:hover{ background-color: #3d3f44e3 !important;} /*standard button*/
 .btndiv > div:nth-child(33)
 {
     /*comment for default pos*/
-    position: fixed !important;
-    left: 0px !important;
-    width: 0px !important;
+     position: fixed !important;
+     left: 0px !important;
+     width: 0px !important;
     /*comment for default pos*/
     
     height: 50px !important;
