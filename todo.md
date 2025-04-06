@@ -1,4 +1,5 @@
-- Change fonts and style including shadows.
+- Change fonts and style including shadows. *almost done
 - Change the call dialogue boxes.
 - Change some of the boxes to be more in line with eachother.
 - Maybe fix the button placement on square aspect ratio screens.
+- Doesn't work on FF maybe figure that one out too.
